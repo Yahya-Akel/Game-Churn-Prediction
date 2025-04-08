@@ -29,7 +29,7 @@ The dataset includes 40,000+ player records with features such as:
 - Achievements Unlocked  
 - Target: **Engagement Level** (Low, Medium, High)
 
-Source: *Publicly available online gaming behavior datasets*
+🔗 Dataset Source: [Predict Online Gaming Behavior Dataset – Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
 
 ---
 
@@ -69,27 +69,14 @@ Source: *Publicly available online gaming behavior datasets*
 
 ---
 
-## 🚀 Getting Started
+## 💻 Run the Notebook
 
-To run this project:
+To run this project in Google Colab:
 
-1. Clone the repo or upload the notebook to Google Colab
-2. Upload the dataset: `online_gaming_behavior_dataset.csv`
-3. Run each cell step by step
-4. Evaluate and interpret the model's results
-
----
-
-## ✅ Future Improvements
-
-- Try different models (Random Forest, Neural Networks)
-- Use SHAP for deeper model interpretability
-- Add live dashboard for churn prediction
-- Use time-series/session data for better temporal modeling
+🔗 [Open Notebook in Colab](https://colab.research.google.com/drive/11c7r2ylSnreD39wyTKcnPkyVjf3jDauc?usp=sharing)
 
 ---
 
 ## 📄 License
 
 This project is for educational purposes as part of **CMPS 261 – Spring 2025**. All rights reserved to the authors.
-
