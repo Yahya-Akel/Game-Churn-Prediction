@@ -47,25 +47,24 @@ The dataset includes 40,000+ player records with features such as:
 
 1. **Data Loading and Exploration**
 2. **Visualization of Class Distribution**
-3. **One-Hot Encoding of Categorical Features**
-4. **Label Encoding for Target Variable**
-5. **Train-Test Split with Stratification**
-6. **Class Imbalance Handling using SMOTE**
-7. **Model Training using XGBoost**
-8. **Model Evaluation**  
+3. **Label Encoding of Categorical Features and Target**
+4. **Train-Test Split with Stratification**
+5. **Class Imbalance Handling using SMOTE**
+6. **Model Training using XGBoost**
+7. **Model Evaluation**  
    - Accuracy  
    - Precision, Recall, F1-Score  
    - Confusion Matrix
-9. **Hyperparameter Tuning** using RandomizedSearchCV
-10. **Feature Importance Visualization**
+8. **Hyperparameter Tuning** using RandomizedSearchCV
+9. **Feature Importance Visualization**
 
 ---
 
 ## 📈 Model Performance
 
-- Multiple performance metrics (pre and post tuning) were used to evaluate the model.
-- SMOTE significantly improved minority class recall.
-- One-Hot Encoding yielded more interpretable features compared to Label Encoding.
+- Multiple performance metrics (before and after tuning) were used to evaluate the model.
+- SMOTE significantly improved performance on underrepresented classes.
+- The final XGBoost model demonstrated strong generalization with balanced accuracy across classes.
 
 ---
 
