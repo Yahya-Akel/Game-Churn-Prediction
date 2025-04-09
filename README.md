@@ -72,7 +72,7 @@ The dataset includes 40,000+ player records with features such as:
 
 To run this project in Google Colab:
 
-🔗 [Open Notebook in Colab](https://colab.research.google.com/drive/11c7r2ylSnreD39wyTKcnPkyVjf3jDauc?usp=sharing)
+🔗 [Open Notebook in Colab](https://colab.research.google.com/drive/1uu1niunRRD7SEQUflz6Bon-B73ehhVD4?usp=sharing)
 
 ---
 
