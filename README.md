@@ -1,24 +1,24 @@
-# 🎮 Game Churn Prediction using Machine Learning
+#  Game Churn Prediction using Machine Learning
 
 A CMPS 261 – Machine Learning project that aims to predict player engagement levels in online games using supervised learning techniques. The project focuses on preprocessing, handling class imbalance, and building an interpretable and high-performing model using XGBoost.
 
 ---
 
-## 📁 Project Overview
+##  Project Overview
 
 This project predicts the **Engagement Level** of players (e.g., Low, Medium, High) based on their in-game behavior. Identifying churn-prone players allows game developers to take proactive steps to retain users through rewards, promotions, or personalized engagement strategies.
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 
 - Wajed Rashed  
 - Yahya Akl  
-- Jean Elhowayek
+- Jean El houwayek
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset includes 40,000+ player records with features such as:
 
@@ -29,11 +29,11 @@ The dataset includes 40,000+ player records with features such as:
 - Achievements Unlocked  
 - Target: **Engagement Level** (Low, Medium, High)
 
-🔗 Dataset Source: [Predict Online Gaming Behavior Dataset – Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
+ Dataset Source: [Predict Online Gaming Behavior Dataset – Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Scikit-learn
@@ -43,7 +43,7 @@ The dataset includes 40,000+ player records with features such as:
 
 ---
 
-## 🧪 Project Pipeline
+## Project Pipeline
 
 1. **Data Loading and Exploration**
 2. **Visualization of Class Distribution**
@@ -60,7 +60,7 @@ The dataset includes 40,000+ player records with features such as:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 - Multiple performance metrics (before and after tuning) were used to evaluate the model.
 - SMOTE significantly improved performance on underrepresented classes.
@@ -68,7 +68,7 @@ The dataset includes 40,000+ player records with features such as:
 
 ---
 
-## 💻 Run the Notebook
+## Run the Notebook
 
 To run this project in Google Colab:
 
